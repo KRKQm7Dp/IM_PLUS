@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+    <meta charset="UTF-8">
+    <title>IM+</title>
+
+    <!--图标样式-->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.2/css/all.min.css'>
+
+    <link rel="shortcut icon" type="image/x-icon" href="../img/IM_PLUS_logo.jpg" />
+
+    <link rel="stylesheet" href="css/login.css">
+
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <script src="js/jquery.md5.js"></script>
+
+
+
+</head>
+
+<body>
+
+<span style="font-size: 40px; font-weight: normal; margin-bottom: 20px;">IM+</span>
+<div class="container" id="container">
+    <div class="form-container sign-up-container">
+        <form action="#">
+            <h1>注册</h1>
+            <!--<div class="social-container">-->
+                <!--<a href="#" class="social"><i class="fab fa-facebook-f"></i></a>-->
+                <!--<a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>-->
+                <!--<a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>-->
+            <!--</div>-->
+            <!--<span>第三方账号注册</span>-->
+            <input type="text" id="rloginID" placeholder="登录账号" />
+            <input type="text" id="rnickName" placeholder="昵称" />
+            <input type="password" id="pwd1" placeholder="密码" />
+            <input type="password" id="pwd2" placeholder="确认密码" />
+            <button onclick="return onRegister()">注册</button>
+        </form>
+    </div>
+    <div class="form-container sign-in-container">
+        <form action="#">
+            <h1>登录</h1>
+            <div class="social-container">
+                <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
+                <a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+            <span>第三方账号登录</span>
+            <input type="text" id="loginID" placeholder="账号" />
+            <input type="password" id="password" placeholder="密码" />
+            <input type="text" id="checkCode" placeholder="验证码"/>
+            <img id="checkCode_img" src="createCheckcode"><a href="javascript:changeCheckCode();">看不清楚，换一张</a><br/>
+            <!--<a href="#">忘记密码？</a>-->
+            <button onclick="return onLogin()">登录</button>
+        </form>
+    </div>
+    <div class="overlay-container">
+        <div class="overlay">
+            <div class="overlay-panel overlay-left">
+                <h1>欢迎回来！</h1>
+                <p>请您先登录的个人信息，进行操作。</p>
+                <button class="ghost" id="signIn">登录</button>
+            </div>
+            <div class="overlay-panel overlay-right">
+                <h1>你好朋友！</h1>
+                <p>输入您的个人信息注册成为会员。</p>
+                <button class="ghost" id="signUp">注册</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>
+        黑龙江大学木叶团队    Copyright © 2018-2019
+    </p>
+</footer>
+
+
+<script  src="js/login.js"></script>
+
+
+
+
+
+</body>
+
+</html>
