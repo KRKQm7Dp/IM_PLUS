@@ -45,7 +45,7 @@ public class DataBase {
     public boolean openConnection()	{
         try {
             Class.forName(this.driver);
-            conn = DriverManager.getConnection(this.url+this.dbname, this.username, this.psw);
+            conn = DriverManager.getConnection(this.url+this.dbname+"?serverTimezone=UTC", this.username, this.psw);
             if (conn==null)
                 return false;
             return true;

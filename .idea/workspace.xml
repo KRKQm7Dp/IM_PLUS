@@ -6,7 +6,26 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbbe1096-54f0-430f-bdce-65c653bc4692" name="Default Changelist" comment="" />
+    <list default="true" id="dbbe1096-54f0-430f-bdce-65c653bc4692" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/85180d05-2c0b-45b3-bc98-39b9424e239c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/85180d05-2c0b-45b3-bc98-39b9424e239c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM_PLUS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IM_PLUS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IM_PLUS_war_exploded/WEB-INF/classes/com/im_plus/db/DataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/IM_PLUS_war_exploded/WEB-INF/classes/com/im_plus/db/DataBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IM_PLUS_war_exploded/WEB-INF/classes/com/im_plus/db/RedisUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/IM_PLUS_war_exploded/WEB-INF/classes/com/im_plus/db/RedisUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IM_PLUS_war_exploded/WEB-INF/classes/com/im_plus/db/mySql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/IM_PLUS_war_exploded/WEB-INF/classes/com/im_plus/db/mySql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IM_PLUS_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IM_PLUS_war_exploded/js/chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/IM_PLUS_war_exploded/js/chat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IM_PLUS/com/im_plus/db/DataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IM_PLUS/com/im_plus/db/DataBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IM_PLUS/com/im_plus/db/RedisUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IM_PLUS/com/im_plus/db/RedisUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IM_PLUS/com/im_plus/db/mySql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IM_PLUS/com/im_plus/db/mySql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/im_plus/db/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/im_plus/db/DataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/im_plus/db/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/im_plus/db/RedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/im_plus/db/mySql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/im_plus/db/mySql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/chat.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,17 +56,6 @@
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="im_plus_db@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="im_plus_db@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="im_plus_db@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="im_plus_db: schema" type="c314c289:MysqlImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -103,18 +111,117 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-152185640">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="java" value="12" />
+          <entry key="jpg" value="7" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="3" />
+          <entry key="png" value="6" />
+          <entry key="properties" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="13" />
+          <entry key="JAVA" value="12" />
+          <entry key="JSP" value="3" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Properties" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="18" />
+          <entry key="properties" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="18" />
+          <entry key="Properties" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/js/chat.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/img/IM_PLUS_logo.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/img/image.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/img/msg_redDot.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/img/name-type.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/img/send.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/img/smiley.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/chat.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/im_plus/filter/MyFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="771">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/im_plus/db/mySql.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/im_plus/db/DataBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="903">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -172,18 +279,17 @@
       <replace>CHAT_ROOM_ID</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/im_plus/test/JsonTest.html" />
-        <option value="$PROJECT_DIR$/src/com/im_plus/servlet/LogoutServlet.java" />
-        <option value="$PROJECT_DIR$/src/com/im_plus/servlet/JsonServlet.java" />
         <option value="$PROJECT_DIR$/src/com/im_plus/test/TestMsgService.java" />
         <option value="$PROJECT_DIR$/src/com/im_plus/servlet/LoadHisMsg.java" />
         <option value="$PROJECT_DIR$/src/com/im_plus/utils/ResponseInformation.java" />
         <option value="$PROJECT_DIR$/src/com/im_plus/service/MsgService.java" />
         <option value="$PROJECT_DIR$/src/com/im_plus/servlet/LoadHisMsgServlet.java" />
-        <option value="$PROJECT_DIR$/src/com/im_plus/service/RedisService.java" />
         <option value="$PROJECT_DIR$/src/com/im_plus/test/HashSetTest.java" />
         <option value="$PROJECT_DIR$/src/com/im_plus/service/FriendService.java" />
         <option value="$PROJECT_DIR$/src/com/im_plus/servlet/UserListServlet.java" />
@@ -225,7 +331,11 @@
         <option value="$PROJECT_DIR$/web/js/login.js" />
         <option value="$PROJECT_DIR$/src/com/im_plus/servlet/LoginServlet.java" />
         <option value="$PROJECT_DIR$/src/com/im_plus/filter/MyFilter.java" />
+        <option value="$PROJECT_DIR$/src/com/im_plus/db/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/im_plus/db/mySql.properties" />
+        <option value="$PROJECT_DIR$/src/com/im_plus/db/DataBase.java" />
         <option value="$PROJECT_DIR$/web/js/chat.js" />
+        <option value="$PROJECT_DIR$/src/com/im_plus/service/RedisService.java" />
       </list>
     </option>
   </component>
@@ -254,28 +364,35 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="286" />
-    <option name="y" value="46" />
-    <option name="width" value="1485" />
-    <option name="height" value="1020" />
+    <option name="x" value="2059" />
+    <option name="y" value="114" />
+    <option name="width" value="1551" />
+    <option name="height" value="879" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IM_PLUS" type="58d84e3e:PackageViewProjectNode" />
+              <item name="IM_PLUS" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
               <item name="IM_PLUS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IM_PLUS" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
@@ -291,6 +408,55 @@
             <path>
               <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
               <item name="IM_PLUS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="im_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IM_PLUS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="im_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IM_PLUS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="im_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IM_PLUS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="im_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IM_PLUS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="im_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IM_PLUS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="im_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IM_PLUS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="im_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IM_PLUS" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -299,16 +465,9 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="IM_PLUS" type="58d84e3e:PackageViewProjectNode" />
-              <item name="IM_PLUS" type="616d4139:PackageViewModuleNode" />
+              <item name="IM_PLUS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -322,31 +481,31 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/li128/Desktop/IM_PLUS/src/com/im_plus/servlet/LoginServlet.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557984318575" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579277700348" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gis_server_springboot" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.32714844" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\li128\Desktop\IM_PLUS\src\com\im_plus\checkcode" />
-      <recent name="C:\Users\li128\Desktop\IM_PLUS\src\com\im_plus\filter" />
-      <recent name="C:\Users\li128\Desktop\IM_PLUS\web\js" />
-      <recent name="C:\Users\li128\Desktop\IM_PLUS\web\WEB-INF\lib" />
-      <recent name="C:\Users\li128\Desktop\IM_PLUS\web\emoji_plugin" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\li128\Desktop\IM_PLUS\src\com\im_plus\test" />
       <recent name="C:\Users\li128\Desktop\IM_PLUS\web" />
       <recent name="C:\Users\li128\Desktop\IM_PLUS\web\WEB-INF\class" />
       <recent name="C:\Users\li128\Desktop\IM_PLUS\src\com\im_plus\db" />
       <recent name="C:\Users\li128\Desktop\IM_PLUS\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\li128\Desktop\毕设\IM_PLUS\web\WEB-INF\lib" />
+      <recent name="C:\Users\li128\Desktop\IM_PLUS\src\com\im_plus\checkcode" />
+      <recent name="C:\Users\li128\Desktop\IM_PLUS\src\com\im_plus\filter" />
+      <recent name="C:\Users\li128\Desktop\IM_PLUS\web\js" />
+      <recent name="C:\Users\li128\Desktop\IM_PLUS\web\WEB-INF\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -454,6 +613,11 @@
       <workItem from="1557905844714" duration="7025000" />
       <workItem from="1558067144742" duration="2085000" />
       <workItem from="1558146190262" duration="1459000" />
+      <workItem from="1579157829186" duration="728000" />
+      <workItem from="1579252094641" duration="3995000" />
+      <workItem from="1579322914112" duration="1507000" />
+      <workItem from="1579327883880" duration="8056000" />
+      <workItem from="1579410217388" duration="1354000" />
     </task>
     <servers />
   </component>
@@ -463,12 +627,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="414948000" />
+    <option name="totallyTimeSpent" value="432048000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49463806" visible="true" weight="0.15951742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49463806" visible="true" weight="0.15245202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -479,8 +643,8 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32841823" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49932975" weight="0.32707775" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.32573727" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49932975" weight="0.5127517" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.42455775" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -492,7 +656,7 @@
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Database" order="1" visible="true" weight="0.16286863" />
+      <window_info anchor="right" id="Database" order="1" visible="true" weight="0.102345414" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -549,123 +713,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/js/jquery.md5.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/md5Test.html" />
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/test/Log4JTestServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="19" column="68" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/class/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/test/switch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-777">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/im_plus_db.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://85180d05-2c0b-45b3-bc98-39b9424e239c/schema/im_plus_db/table/friends/index/f_firendid" />
-    <entry file="das://85180d05-2c0b-45b3-bc98-39b9424e239c/schema/im_plus_db/table/friends/index/friends_user_u_loginid_fk_2" />
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/db/DataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="76" column="1" lean-forward="true" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/db/mySql.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/db/RedisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1165">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/log/MyLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/pojo/Friend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-346">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/pojo/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1921">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/pojo/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="270" column="3" lean-forward="true" selection-start-line="270" selection-start-column="3" selection-end-line="270" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/service/FriendService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/service/MsgService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/service/RedisService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="138" column="9" lean-forward="true" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/servlet/JsonServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/servlet/LoadHisMsgServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/im_plus/servlet/Log4jInitServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -677,13 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/servlet/RequestListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -703,8 +743,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/im_plus/utils/ResponseInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-227">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="36">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -722,41 +762,10 @@
     <entry file="file://$PROJECT_DIR$/web/css/turlingRobotSwitch.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/utils/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/chat.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/pojo/IJsonSeriserialize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/servlet/RegisterServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/im_plus/servlet/ModifyUserInfoServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="18" column="28" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,48 +783,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/servlet/GetHttpSessionConfigurator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1113">
-          <caret line="53" column="86" selection-start-line="53" selection-start-column="86" selection-end-line="53" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://85180d05-2c0b-45b3-bc98-39b9424e239c/schema/im_plus_db/table/friends">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://85180d05-2c0b-45b3-bc98-39b9424e239c/schema/im_plus_db/table/messages">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://85180d05-2c0b-45b3-bc98-39b9424e239c/schema/im_plus_db/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://85180d05-2c0b-45b3-bc98-39b9424e239c/schema/im_plus_db/table/userstate">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://85180d05-2c0b-45b3-bc98-39b9424e239c/schema/im_plus_db/table/friends" />
+    <entry file="das://85180d05-2c0b-45b3-bc98-39b9424e239c/schema/im_plus_db/table/messages" />
+    <entry file="das://85180d05-2c0b-45b3-bc98-39b9424e239c/schema/im_plus_db/table/user" />
+    <entry file="das://85180d05-2c0b-45b3-bc98-39b9424e239c/schema/im_plus_db/table/userstate" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -830,30 +801,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/controller/ChatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/im_plus/filter/MyFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -862,14 +813,171 @@
         <state relative-caret-position="-1092" />
       </provider>
     </entry>
+    <entry file="jar://D:/env/jdk-8u131-windows-x64/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="616" selection-start-line="616" selection-end-line="616" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/js/chat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+        <state relative-caret-position="3213">
+          <caret line="153" column="36" selection-start-line="153" selection-start-column="36" selection-end-line="153" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/servlet/RegisterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/pojo/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3192">
+          <caret line="189" selection-start-line="3" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/db/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="42" column="5" selection-start-line="30" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/servlet/GetHttpSessionConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/pojo/IJsonSeriserialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="53" column="86" selection-start-line="53" selection-start-column="86" selection-end-line="53" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/servlet/RequestListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/service/MsgService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/log/MyLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/service/RedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/controller/ChatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="218" column="64" selection-start-line="218" selection-start-column="50" selection-end-line="218" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/head_img/head_img_10000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/head_img/head_img_10001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/head_img/head_img_10002.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/attachment.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/ChatRoom.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/defaultHead.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/firstPage.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/IM_PLUS_logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/msg_redDot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/name-type.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/send.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img/smiley.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/chat.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/db/mySql.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/db/DataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/im_plus/filter/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>

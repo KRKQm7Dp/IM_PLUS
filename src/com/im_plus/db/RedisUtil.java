@@ -7,12 +7,12 @@ import redis.clients.jedis.JedisPoolConfig;
 
 public class RedisUtil {
 
-    private static String ADDR = "localhost";
+    private static String ADDR = "39.107.125.189";
 
     private static int PORT = 6379;
 
     // 密码
-    private static String AUTH = "123456";
+//    private static String AUTH = "123456";
     // 最大连接数
     private static int MAX_ACTIVE = 1024;
     //控制一个pool最多有多少个状态为idle(空闲的)的jedis实例，默认值也是8。
