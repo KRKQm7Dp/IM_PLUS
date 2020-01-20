@@ -152,7 +152,7 @@ var hisArray = [];  // 定义历史消息队列，存放消息 JSON 对象
 var websocket=null;
 var addr = 'localhost';  // 服务器 ip
 // var addr = '192.168.43.16';  // 服务器 ip
-var port = '8888';           // 端口号
+var port = '8889';           // 端口号
 var url = 'ws://'+ addr +':'+ port +'/chat/' + loginedUserID;  // webSocket 连接地址
 function initConnection(){
     if ("WebSocket" in window){
@@ -171,7 +171,7 @@ function initConnection(){
         // 在此添加注销代码
         // loginout();
         alert('您当前已经被注销！请重新登录');
-        window.location.href="login.html";
+        // window.location.href="login.html";
     }
     window.onbeforeunload=function(){
         websocket.close();

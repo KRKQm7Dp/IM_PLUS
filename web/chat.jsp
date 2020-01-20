@@ -1,15 +1,17 @@
 <%@ page import="com.im_plus.pojo.User" %>
 <%@ page import="com.im_plus.servlet.LoginServlet" %>
+<%@ page import="com.im_plus.service.UserService" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html lang="en" >
 
 <head>
   <meta charset="UTF-8">
   <%
-    User user = (User) session.getAttribute(LoginServlet.LOGINED_USER_SESSION_ATTR);
-    if(user == null){  // 判断是否存在登录用户 若不存在则返回登录页面
-        request.getRequestDispatcher("login.html").forward(request, response);
-    }
+//    User user = (User) session.getAttribute(LoginServlet.LOGINED_USER_SESSION_ATTR);
+//    if(user == null){  // 判断是否存在登录用户 若不存在则返回登录页面
+//        request.getRequestDispatcher("login.html").forward(request, response);
+//    }
+      User user = new UserService().queryUserByLoginID(request.getRemoteUser());
   %>
 
   <title>loginUser:<%= user.getUNickName() %></title>
