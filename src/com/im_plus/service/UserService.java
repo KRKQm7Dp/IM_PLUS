@@ -17,7 +17,7 @@ public class UserService {
         if (!db.openConnection()) {
             return null;
         }
-        String sql = "select * from user where U_LoginID=? and U_PassWord=?";
+        String sql = "select * from sys_user where U_LoginID=? and U_PassWord=?";
         Connection conn = db.getConnection();
         try {
             PreparedStatement ps = conn.prepareStatement(sql);
@@ -55,7 +55,7 @@ public class UserService {
         if (!db.openConnection()) {
             return null;
         }
-        String sql = "select * from user where U_LoginID=?";
+        String sql = "select * from sys_user where U_LoginID=?";
         Connection conn = db.getConnection();
         try {
             PreparedStatement ps = conn.prepareStatement(sql);
@@ -89,7 +89,7 @@ public class UserService {
         if(!db.openConnection()){
             return false;
         }
-        String sql = "insert into user (U_LoginID,U_NickName,U_PassWord,U_HeadPortrait) values (?,?,?,?)";
+        String sql = "insert into sys_user (U_LoginID,U_NickName,U_PassWord,U_HeadPortrait) values (?,?,?,?)";
         Connection conn = db.getConnection();
         try {
             PreparedStatement ps = conn.prepareStatement(sql);
@@ -116,7 +116,7 @@ public class UserService {
         if(!db.openConnection()){
             return false;
         }
-        String sql = "update user set U_NickName=?, U_PassWord=?, U_Sex=?, U_Email=?, U_Birthday=?, U_SignaTure=?, U_HeadPortrait=? where U_LoginID=?";
+        String sql = "update sys_user set U_NickName=?, U_PassWord=?, U_Sex=?, U_Email=?, U_Birthday=?, U_SignaTure=?, U_HeadPortrait=? where U_LoginID=?";
         Connection conn = db.getConnection();
         try {
             PreparedStatement ps = conn.prepareStatement(sql);

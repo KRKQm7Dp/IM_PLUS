@@ -18,7 +18,7 @@ public class FriendService {
             return null;
         }
         JSONArray jsonArray = new JSONArray();
-        String sql = "select user.*,friends.F_FriendGroupsID from friends join user on F_FirendID=U_LoginID where F_UserID=?";
+        String sql = "select sys_user.*,friends.F_FriendGroupsID from friends join sys_user on F_FirendID=U_LoginID where F_UserID=?";
         Connection conn = db.getConnection();
         try {
             PreparedStatement ps = conn.prepareStatement(sql);
